@@ -1,0 +1,54 @@
+.tienda {
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-left: 50px;   
+    color: black;
+}
+
+.tiendas{
+    margin-top: 120px;
+    margin-left: 200px;
+}
+
+.imagen-logo {
+    width: 200px;
+    height: 200px;
+}
+
+#search{
+    position: relative;
+    font-size: 20px;
+    bottom: -300px;
+    margin-left: 350px;
+    width: 250px;
+}
+
+#search-button{
+    position: relative;
+    bottom: -300px;
+}
+#search:hover{
+    transition: 1s;
+    width: 350px;
+}
+
+
+.mu {
+    width: 220px;
+    height: 140px;
+}
+
+.am {
+    height: 100px;
+    margin-top: 21px;
+}
+
+.error {
+    margin-left: 500px;
+    position: relative;
+    bottom: -280px;
+    color:red;
+}
